@@ -16,7 +16,15 @@ const users = [
     { name: "Kimi Maulana", username: "OrewaKimi" },
     { name: "Indra Yones", username: "indrayones" },
     { name: "Salman Rizky", username: "salman-ctrl" },
-    { name: "Erik Rahman", username: "erikrahman2" }
+    { name: "Erik Rahman", username: "erikrahman2" },
+    { name: "Natha Fahrezi", username: "NathaFahrezi" },
+    { name: "David Zarly", username: "davidzarly" },
+    { name: "Taufiqul Israt", username: "taufiqulisrat" },
+    { name: "Arif Mardiyansyah", username: "ArifMardiyansyah" },
+    { name: "Muhammad Irzan Ali", username: "adanstudio" },
+    { name: "Maulana Ihsan", username: "maulanaihsan15" },
+    { name: "Lani Dwi Karina", username: "lanidwikarina" },
+    { name: "Miftahul Rizky", username: "miftahulrizky29" },
   ];
   
   // Function to display the list of users

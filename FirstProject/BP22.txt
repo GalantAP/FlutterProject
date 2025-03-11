@@ -25,6 +25,8 @@ const users = [
     { name: "Maulana Ihsan", username: "maulanaihsan15" },
     { name: "Lani Dwi Karina", username: "lanidwikarina" },
     { name: "Miftahul Rizky", username: "miftahulrizky29" },
+    { name: "Aryanahta Putra", username: "Aryonah" },
+    
   ];
   
   // Function to display the list of users
